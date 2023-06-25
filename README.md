@@ -56,3 +56,7 @@
 - Baby timro ra mero time complexity efficient [ O(1), O(n), O(n^2), O(logn), O(nlogn) ] haina O(infinity) hunu parxa
   time complexity - time taken to execute a program
   big O notation O(n) O(n^2)
+  
+- Babe I want to give some data show me your API ;).
+
+- Babe I am authenticated right? I dont want my request to be unauthorized.
